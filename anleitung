@@ -1,0 +1,79 @@
+✅ Installation
+Lade das Plugin hier auf GitHub herunter (JAR-Datei)
+
+Lege die JAR-Datei in deinen plugins-Ordner
+
+Starte deinen Server
+
+Konfiguriere das Plugin mit /admin oder passe die config.yml manuell an
+
+Nutze diese Befehle:
+
+/admin chat <on|off>
+/admin chat-spam <on|off>
+/admin chat-filter <add|remove|on|off> [wort]
+/admin admin-name <on|off>
+/admin tpa <on|off>
+/admin reload
+/admin help
+TPA-Befehle für Spieler:
+
+/tpa <spielername>
+/tpaccept
+/tpdeny
+⚠️ BITTE GIB DAS PLUGIN NICHT ALS DEINS AUS ⚠️
+Wenn du Bugs findest oder Wünsche hast, freue ich mich über dein Feedback!
+Viel Spaß beim Testen! 🚀
+
+🇬🇧 GamerServerAdmin – Minecraft Admin Plugin
+🛠️ Features
+The GamerServerAdmin plugin gives you powerful tools to manage your Minecraft server:
+
+✏️ Chat Moderation
+
+Enable/disable chat
+
+Anti-spam system
+
+Chat filter with blacklist
+
+🏷️ Admin Tags
+
+Add [ADMIN] tag to OP players
+
+🧭 TPA System
+
+Teleport requests with /tpa, /tpaccept, /tpdeny
+
+⚙️ Simple in-game configuration
+
+Use /admin command with subcommands to control everything
+
+✅ Installation
+Download the plugin from GitHub (JAR file)
+
+Place the JAR into your plugins folder
+
+Start your server
+
+Configure the plugin using /admin or edit the config.yml
+
+Use these commands:
+
+Kopieren
+Bearbeiten
+/admin chat <on|off>
+/admin chat-spam <on|off>
+/admin chat-filter <add|remove|on|off> [word]
+/admin admin-name <on|off>
+/admin tpa <on|off>
+/admin reload
+/admin help
+
+Player teleport commands:
+/tpa <playername>
+/tpaccept
+/tpdeny
+⚠️ PLEASE DO NOT CLAIM THIS PLUGIN AS YOUR OWN ⚠️
+If you find bugs or have ideas, feel free to share!
+Enjoy testing! 🚀
